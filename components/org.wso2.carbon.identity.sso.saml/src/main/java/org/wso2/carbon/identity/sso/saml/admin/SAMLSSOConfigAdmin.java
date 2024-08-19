@@ -50,7 +50,6 @@ import org.wso2.carbon.utils.security.KeystoreUtils;
 
 import java.security.KeyStore;
 import java.security.cert.CertificateException;
-import java.util.Map;
 import java.util.Optional;
 
 import static org.wso2.carbon.identity.application.mgt.ApplicationMgtUtil.isEnableV2AuditLogs;
